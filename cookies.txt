@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+loja.modernacompra.com.br	TRUE	/limpadornasal	FALSE	1999999999	stg-tracker	deleted
+loja.modernacompra.com.br	TRUE	/	FALSE	1999999999	PHPSESSID	7bpvkvrh02hq04ebdpr2t57qa2sqv1du
+
